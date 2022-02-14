@@ -1,11 +1,6 @@
 env.py
+__pycache__
 .DS_Store
 .ipynb_checkpoints/
-__pycache__/
 *.csv
-*.json2
 *.json
-df_json/
-source_csv/
-source_json/
-data
