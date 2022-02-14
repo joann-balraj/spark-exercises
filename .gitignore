@@ -3,3 +3,9 @@ env.py
 .ipynb_checkpoints/
 __pycache__/
 *.csv
+*.json2
+*.json
+df_json/
+source_csv/
+source_json/
+data
